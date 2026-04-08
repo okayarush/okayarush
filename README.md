@@ -15,15 +15,14 @@
 │   systems engineer  •  full-stack architect  •  hardware hacker   │
 ├───────────────────────────────────────────────────────────────────┤
 │   endorsed by  NASA  •  Tel Aviv University  •  GSCRT Goa         │
-│   8K+ concurrent users  •  200K+ citizens served  •  1 patent     │
-│   5 hackathon wins  //  4 national  +  1 international  //  60d   │
+│   8K+ concurrent users  •  200K+ citizens served  •  1 patent     │ 
 └───────────────────────────────────────────────────────────────────┘
 ```
 
-[![Email](https://img.shields.io/badge/workwarush%40gmail.com-000?style=flat-square&logo=gmail&logoColor=FF3C3C)](mailto:workwarush@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/arush--talgeri-000?style=flat-square&logo=linkedin&logoColor=4A9EFF)](https://linkedin.com/in/arush-talgeri-5bb866320)
-[![Portfolio](https://img.shields.io/badge/arushstack.dev-000?style=flat-square&logo=vercel&logoColor=aaa)](https://arushstack.dev)
-![open](https://img.shields.io/badge/status-open_to_collaborate-00FF88?style=flat-square&labelColor=000)
+[![Portfolio](https://img.shields.io/badge/arushstack.dev-FF3C3C?style=for-the-badge&logo=vercel&logoColor=white)](https://arushstack.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arush-talgeri-5bb866320)
+[![Email](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:workwarush@gmail.com)
+![open](https://img.shields.io/badge/open_to_collaborate-00FF88?style=for-the-badge&labelColor=000)
 
 </div>
 
@@ -148,6 +147,24 @@ WHAT A TYPICAL SYSTEM LOOKS LIKE
   [ FreeRTOS ]  → [ OpenCV ] → [ custom driver ]
 ```
 
+---
+
+## `./metrics --github`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=okayarush&show_icons=true&theme=github_dark&hide_border=true&bg_color=010409&title_color=FF3C3C&icon_color=4A9EFF&text_color=8b949e" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=okayarush&theme=github-dark-blue&hide_border=true&background=010409&ring=FF3C3C&fire=FF3C3C&currStreakLabel=8b949e&sideLabels=8b949e&dates=444" width="48%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okayarush&layout=compact&theme=github_dark&hide_border=true&bg_color=010409&title_color=FF3C3C&text_color=8b949e&langs_count=8" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=okayarush&theme=github-compact&hide_border=true&bg_color=010409&color=4A9EFF&line=FF3C3C&point=8b949e&area=true&area_color=FF3C3C" width="48%" />
+
+</div>
+
+---
+
 ## `cat ./depth --no-fluff`
 
 ```javascript
@@ -208,7 +225,8 @@ $ curl -X POST https://arushstack.dev/contact \
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│               arush talgeri  //  KLE TECH  //  2026             │         │
+│               arush talgeri  //  KLE TECH  //  2026             │
+│          build systems. ship products. leave receipts.          │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
