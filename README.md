@@ -148,24 +148,6 @@ WHAT A TYPICAL SYSTEM LOOKS LIKE
   [ FreeRTOS ]  → [ OpenCV ] → [ custom driver ]
 ```
 
----
-
-## `./metrics --github`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=okayarush&show_icons=true&theme=github_dark&hide_border=true&bg_color=010409&title_color=FF3C3C&icon_color=4A9EFF&text_color=8b949e" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=okayarush&theme=github-dark-blue&hide_border=true&background=010409&ring=FF3C3C&fire=FF3C3C&currStreakLabel=8b949e&sideLabels=8b949e&dates=444" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okayarush&layout=compact&theme=github_dark&hide_border=true&bg_color=010409&title_color=FF3C3C&text_color=8b949e&langs_count=8" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=okayarush&theme=github-compact&hide_border=true&bg_color=010409&color=4A9EFF&line=FF3C3C&point=8b949e&area=true&area_color=FF3C3C" width="48%" />
-
-</div>
-
----
-
 ## `cat ./depth --no-fluff`
 
 ```javascript
