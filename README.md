@@ -12,7 +12,7 @@
 
 ```
 ┌───────────────────────────────────────────────────────────────────┐
-│   systems engineer  •  full-stack architect  •  hardware hacker   │
+│   systems engineer  •  full-stack developer •  hardware hacker    │
 ├───────────────────────────────────────────────────────────────────┤
 │   endorsed by  NASA  •  Tel Aviv University  •  GSCRT Goa         │
 │   8K+ concurrent users  •  200K+ citizens served  •  1 patent     │ 
@@ -38,12 +38,11 @@ ROLE="Full-Stack Engineer + Systems Architect"
 LOCATION="Karnataka, India"
 OPEN_TO="Collaboration, freelance, research"
 PATENTS="1 pending — IoT + AI wearable architecture"
-ENDORSED_BY=["NASA", "Tel Aviv University", "GSCRT Goa"]
-HACKATHONS="5 wins in 60 days (4 national, 1 international)"
+BUILT PROJECTS ENDORSED_BY=["NASA", "Tel Aviv University (ISRAEL)", "GSCERT Goa"]
 ```
 
 > Not a tutorial builder. I ship things that serve real users at real scale.
-> ESP32 to Next.js. Sensor fusion to cinematic UX. Hardware to production.
+> Raspberry Pi to Next.js. Sensor fusion to cinematic UX. Hardware to production.
 
 ---
 
